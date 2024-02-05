@@ -7,7 +7,7 @@ body {
     color: blue;
   }
   
-  p, ul, ol,
+  p, ul,
   span {
     color: white;
     font-size: 14px;
@@ -23,10 +23,10 @@ body {
     color: brown;
   }
  
-  a:hover {
+  ol, a:hover {
     color: bisque;
   }
 
-  a:visited {
+  ol, a:visited {
     color:blue;
   }
