@@ -1,0 +1,32 @@
+/* Global styles */
+body {
+    background-color: hsl(0, 0%, 3%);
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  p, ul, ol,
+  span {
+    color: white;
+    font-size: 14px;
+    line-height: 2;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
+  }
+
+  figcaption {
+    color: brown;
+  }
+ 
+  a:hover {
+    color: bisque;
+  }
+
+  a:visited {
+    color:blue;
+  }
