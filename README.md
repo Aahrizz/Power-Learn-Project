@@ -9,7 +9,7 @@ This repo documents my Sofware Developement training journey at [Power Learn Pro
 ## Curriculum
 These are the modules covered in the curriculum
 
-[Python Programming](./python-incubation)
+[Python Programming](./Python)
 - [X] Introduction to python
 - [X] Python Data Strucutures
 - [X] Flow control 
@@ -17,14 +17,14 @@ These are the modules covered in the curriculum
 - [X] Python Libraries
 - [ ] Django
 
-[Shell Scripting Basics](./shell-scripting)
+[Shell Scripting Basics]
 - [X] CLI navigation
 - [X] Linux Directory structure
 - [X] Basic CLI commnads
 - [X] Permissions
 - [X] Bash Scripting 
 
-[Web Technologies](./web-development)
+[Web Technologies](./Web-dev)
 - Introduction to web Development
     - [X] Introduction to HTML
     - [X] HTML Links and Images
@@ -42,13 +42,13 @@ These are the modules covered in the curriculum
     - [X] Loops
     - [X] Functions in Javascript
 
-[Dart with Flutter](./hello-dart)
+[Dart with Flutter]
 - [X] Introduction to Dart
 - [X] Dart Datatypes
 - [ ] Control flow and functions in Dart
 - [ ] Object Oriented Programming
 
-[Databases](./databases_basics)
+[Databases]
 - [X] Database Systems
 - [X] Data VS information
 - [X] Entities and attributes
@@ -72,6 +72,4 @@ These are the modules covered in the curriculum
     ✅  Set operations
 
 
-## Projects
-[Python Mini Project](./python-incubation/mini_project): Find the dictionary definition of a word
 
