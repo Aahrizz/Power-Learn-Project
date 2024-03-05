@@ -24,7 +24,7 @@ These are the modules covered in the curriculum
 - [X] Permissions
 - [X] Bash Scripting 
 
-[Web Technologies](./Web-dev)
+[Web Technologies](./Web_dev)
 - Introduction to web Development
     - [X] Introduction to HTML
     - [X] HTML Links and Images
