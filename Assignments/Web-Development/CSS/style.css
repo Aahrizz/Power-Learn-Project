@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+.header, h2 {
+    background-color: rgb(104, 9, 212);
+    color: rgb(8, 8, 8);
+    margin: 10 auto;
+}
+
+h2 {
+    
+}
+
+.intro {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    text-overflow: auto;
+}
