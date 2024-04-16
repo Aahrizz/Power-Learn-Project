@@ -1,11 +1,10 @@
-class Person:
-    def __init__(self, name, age, gender):
-        self.name = name
-        self.age = age
-        self.gender = gender
-        
-    def intro(self):
-        print("Hello everyone, I am", self.name, self.age, "years old and", self.gender)
-        
-Perp1 = Person('Evans', 34, 'Male')
-Perp1.intro()
+inval=int(input('Input an integer greater than 5 and less than or equal to 10: '))
+# your code goes here
+if 5 < inval <= 10:
+    for inval in range (0, inval+1):
+        print(inval)
+        if (inval * 10 ) > 70:
+            
+            break
+else:
+    print('You did not enter a value between 1 and 5')
